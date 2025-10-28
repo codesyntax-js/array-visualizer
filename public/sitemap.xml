@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://array-visualizer.onrender.com/</loc>
+    <lastmod>2025-10-28</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://array-visualizer.onrender.com/create-array</loc>
+    <lastmod>2025-10-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://array-visualizer.onrender.com/insert-element</loc>
+    <lastmod>2025-10-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://array-visualizer.onrender.com/remove-element</loc>
+    <lastmod>2025-10-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://array-visualizer.onrender.com/update-element</loc>
+    <lastmod>2025-10-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://array-visualizer.onrender.com/select-element</loc>
+    <lastmod>2025-10-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+</urlset>
