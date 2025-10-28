@@ -426,7 +426,7 @@ font-size: larger;
 
 /* Animations */
 .animate {
-    animation: fadeInUp 0.8s ease forwards;
+    animation: fadeInUp 1.1s ease forwards;
 }
 
 .removing {
